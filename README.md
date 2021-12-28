@@ -36,7 +36,7 @@ Or select one of the playlists from the list below.
   <tbody>
     <tr><td align="left">All</td><td align="right">26</td><td align="left" nowrap><code>https://serveriptv.42web.io/lista.m3u</code></td></tr>
     <tr><td align="left">Kombetare</td><td align="right">15</td><td align="left" nowrap><code>https://github.com/rajdibeqirllari/rajdibeqirllari/blob/main/lista.m3u</code></td></tr>
-    <tr><td align="left">RTSH</td><td align="right">38</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
+    <tr><td align="left">RTSH</td><td align="right">38</td><td align="left" nowrap><code>https://pastebin.com/raw/TRtJ61Av</code></td></tr>
     <tr><td align="left">Lajme</td><td align="right">59</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
     <tr><td align="left">Filma</td><td align="right">53</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/comedy.m3u</code></td></tr>
     <tr><td align="left">Big Brother</td><td align="right">33</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/cooking.m3u</code></td></tr>
