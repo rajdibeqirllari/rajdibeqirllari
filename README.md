@@ -34,7 +34,7 @@ Or select one of the playlists from the list below.
     <tr><th align="left">Category</th><th align="right">Channels</th><th align="left">Playlist</th></tr>
   </thead>
   <tbody>
-    <tr><td align="left">All</td><td align="right">26</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/animation.m3u</code></td></tr>
+    <tr><td align="left">All</td><td align="right">26</td><td align="left" nowrap><code>https://serveriptv.42web.io/albportal.m3u</code></td></tr>
     <tr><td align="left">Kombetare</td><td align="right">15</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/auto.m3u</code></td></tr>
     <tr><td align="left">RTSH</td><td align="right">38</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/business.m3u</code></td></tr>
     <tr><td align="left">Lajme</td><td align="right">59</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
