@@ -39,7 +39,7 @@ Or select one of the playlists from the list below.
     <tr><td align="left">RTSH</td><td align="right">38</td><td align="left" nowrap><code>https://pastebin.com/raw/TRtJ61Av</code></td></tr>
     <tr><td align="left">Lajme</td><td align="right">59</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/classic.m3u</code></td></tr>
     <tr><td align="left">Filma</td><td align="right">53</td><td align="left" nowrap><code>https://serveriptv.42web.io/lista2.m3u</code></td></tr>
-    <tr><td align="left">Big Brother</td><td align="right">33</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/cooking.m3u</code></td></tr>
+    <tr><td align="left">Big Brother</td><td align="right">33</td><td align="left" nowrap><code>http://serveriptv.42web.io/categories/lista2.m3u</code></td></tr>
     <tr><td align="left">Sport</td><td align="right">18</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/culture.m3u</code></td></tr>
     <tr><td align="left">Muzike</td><td align="right">45</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/documentary.m3u</code></td></tr>
     <tr><td align="left">Dokumentare</td><td align="right">158</td><td align="left" nowrap><code>https://iptv-org.github.io/iptv/categories/education.m3u</code></td></tr>
