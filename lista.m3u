@@ -1,0 +1,11 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="TringSportNews.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="all", Tring Sport News HD
+http://nomorecable.xyz:80/live/hahaiptv-/079652/101391.ts
+#EXTINF:-1 tvg-id="TringSport1.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="all", Tring Sport 1 HD
+http://nomorecable.xyz:80/live/hahaiptv-/079652/101392.ts
+#EXTINF:-1 tvg-id="TringSport2.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="all", Tring Sport 2 HD
+http://nomorecable.xyz:80/live/hahaiptv-/079652/101393.ts
+#EXTINF:-1 tvg-id="TringSport3.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="all", Tring Sport 3 HD
+http://nomorecable.xyz:80/live/hahaiptv-/079652/101394.ts
+#EXTINF:-1 tvg-id="TringSport4.al" tvg-language="Albanian" tvg-logo="https://i.imgur.com/PjBm4Ic.jpg" group-title="all", Tring Sport 4 HD
+http://nomorecable.xyz:80/live/hahaiptv-/079652/101395.ts
